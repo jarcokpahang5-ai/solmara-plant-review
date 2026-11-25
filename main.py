@@ -14,8 +14,8 @@ import os
 
 REVIEW = (
     "\u2605\u2606\u2606\u2606\u2606 One star: he repotted me into a mug with no "
-    "drainage, called it 'minimalist living', and now acts surprised "
-    "every time I drown a little more."
+    "drainage, called it 'minimalist living', and now waters me to "
+    "apologise every time I drown a little more."
 )
 
 MIN_CHARS = 1
